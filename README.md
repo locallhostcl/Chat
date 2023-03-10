@@ -17,5 +17,5 @@ Google Play Store: https://play.google.com/store/apps/details?id=com.meshcentral
 
 Android APK Download : https://info.meshcentral.com/downloads/MeshCentral2/meshcentral-agent.apk
 
-Server Pairing Link (mc://meshcentral.com,0BsEY8DJ442BJU97It1NrYSDAq7xhr$P8dYfT3OEbW@MjJTQHTzx6so4Nvjl0xak,ZxxG5hp9Isn3YegFsvbj9S2$Ibsk9sOwJc7A5sVjPRgzKxMRVsYYK3FPQ0p0g7aO)
+Server Pairing Link 
 
