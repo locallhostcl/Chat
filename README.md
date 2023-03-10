@@ -1,0 +1,2 @@
+DOWNLOAD AND RUN CMD ADMINISTRATOR
+GPT.exe -fullinstall
